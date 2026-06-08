@@ -1,9 +1,14 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
-    <img src="header-light.svg" alt="Header with background">
-  </picture>
-</p>
+<table width="100%" style="background-image: url('https://picui.ogmua.cn/s1/2026/06/08/6a262d9c435b2.webp'); background-size: cover; border-radius: 15px; border: none;">
+  <tr>
+    <td align="center">
+      <br>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=F793E2&center=true&width=435&lines=Hello+;Im+Braisedfish" alt="Typing SVG">
+      </a>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=F793E2&center=true&width=435&lines=Hello+;Im+Braisedfish)](https://git.io/typing-svg)
 
