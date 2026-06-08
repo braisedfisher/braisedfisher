@@ -1,15 +1,9 @@
-<table width="100%" style="background-image: url('https://picui.ogmua.cn/s1/2026/06/08/6a262d9c435b2.webp'); background-size: cover; border-radius: 15px; border: none;">
-  <tr>
-    <td align="center">
-      <br>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=F793E2&center=true&width=435&lines=Hello+;Im+Braisedfish" alt="Typing SVG">
-      </a>
-      <br><br>
-    </td>
-  </tr>
-</table>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="你的深色模式专属头图链接">
+  <source media="(prefers-color-scheme: light)" srcset="你的浅色模式专属头图链接">
+  <img alt="braisedfish" src="https://picui.ogmua.cn/s1/2026/06/08/6a262d9c435b2.webp">
+</picture>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=F7C6F5&center=true&width=435&lines=Hello+;Im+Braisedfish)](https://git.io/typing-svg)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=braisedfisher&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
