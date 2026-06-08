@@ -1,4 +1,4 @@
-<img src="https://你的图片链接/animation.gif" width="100%" alt="动画背景">
+<img src="https://r2.image-upload.app/tyImg/SfIYfH6I.gif" width="100%" alt="动画背景">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=F7C6F5&center=true&width=435&lines=Hello+;Im+Braisedfish)](https://git.io/typing-svg)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=braisedfisher&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
