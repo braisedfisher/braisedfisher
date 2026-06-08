@@ -1,5 +1,5 @@
 <picture>
-  <img alt="braisedfish" src="[https://picui.ogmua.cn/s1/2026/06/08/6a262d9c435b2.webp](https://r2.image-upload.app/tyImg/SfIYfH6I.gif)">
+  <img alt="braisedfish" src="[https://r2.image-upload.app/tyImg/SfIYfH6I.gif)">
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=F7C6F5&center=true&width=435&lines=Hello+;Im+Braisedfish)](https://git.io/typing-svg)
